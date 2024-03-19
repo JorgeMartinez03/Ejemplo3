@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.container {
+  text-align: center;
+}
+.nav_item_6 {
+  background-color: white;
+}
